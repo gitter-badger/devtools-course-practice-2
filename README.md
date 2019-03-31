@@ -5,7 +5,7 @@
 [![Build Status](https://travis-ci.org/UNN-VMK-Software/devtools-course-practice.svg?branch=master)](https://travis-ci.org/UNN-VMK-Software/devtools-course-practice)
 [![Build status](https://ci.appveyor.com/api/projects/status/a8sqa0edb6j5b67n/branch/master?svg=true)](https://ci.appveyor.com/project/kirill-kornyakov/devtools-course-practice-c6u53/branch/master)
 [![codecov](https://codecov.io/gh/UNN-VMK-Software/devtools-course-practice/branch/master/graph/badge.svg)](https://codecov.io/gh/UNN-VMK-Software/devtools-course-practice)
-<!-- [![Documentation](https://readthedocs.org/projects/devtools-course-practice/badge/?version=latest)](http://devtools-course-practice.readthedocs.org) -->
+<!-- [![Documentation](https://readthedocs.org/projects/devtools-course-practice/badge/?version=latest)](http://devtools-course-practice.readthedocs.org) [![Join the chat at https://gitter.im/devtools-course-practice-2019/community](https://badges.gitter.im/devtools-course-practice-2019/community.svg)](https://gitter.im/devtools-course-practice-2019/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) -->
 
  - Нижегородский Государственный Университет им. Н.И. Лобачевского
  - Институт ИТММ, каф. МОСТ
